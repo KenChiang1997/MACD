@@ -1,7 +1,7 @@
 # MACD
 
 
-2020 spring semester MACD practice
+2020 spring semester Fintech course exercise
 
 # code 
  MACD.py 
