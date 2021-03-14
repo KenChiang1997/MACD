@@ -1,7 +1,7 @@
 # MACD
 
 
-# backtest strategy pratice 
+2020 spring semester MACD practice
 
 # code 
  MACD.py 
