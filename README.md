@@ -1,5 +1,7 @@
-# MACD
 
+author : " 江晨立 , ken chiang"
+
+# MACD
 
 2020 spring semester Fintech course exercise
 
